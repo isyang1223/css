@@ -1,0 +1,284 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#background{
+    width: 1000px;
+    height: 1220px;
+    background-color:rgb(26, 26, 26);
+}
+#heading{
+    height: 100px;
+    width: 980px;
+    padding: 20px 20px 0px 20px;
+
+}
+#logo{
+    display: inline-block;
+}
+#phone{
+    display: inline-block;  
+    vertical-align: top;
+    text-align: right;
+    width: 740px;
+    height: 30px;
+    padding-top: 10px;
+    color: rgb(206, 207, 205);
+}
+#maintop{
+    width: 980px;
+    height: 400px;
+    background-color:rgb(26, 26, 26);
+    padding-left:10px;
+    padding-right: 10px;
+}
+#nav{
+
+    width: 975px;
+    height: 44px;
+    background-color: rgb(65, 65, 65);
+    
+}
+
+#mainimg{
+    background-image: url("main_pic.png");
+    height: 350px;
+    width: 975px;
+    border-bottom: 4px solid rgb(129, 125, 125);
+
+}
+#maininfo{
+    height: 160px;
+    width: 980px;
+    background-color:rgb(26, 26, 26);
+    
+}
+.infos{
+    width: 240px;
+    height: 150px;
+    background-color:rgb(26, 26, 26);
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.infoimg{
+    /* vertical-align: top; */
+    height: 37px;
+    width: 48px;
+    padding-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.infohead{
+    text-align: top;
+    color: rgb(227, 113, 54);
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 25px;
+    padding-left: 10px;
+    font-size: 20px;
+    
+    
+}
+.infop{
+    display:inline-block;
+    vertical-align: top;
+    margin-left: 83px;
+    height: 120px;
+    /* padding-bottom: 60px; */
+
+    color: rgb(222, 222, 222);
+    width:160px;
+}
+
+#ad{
+    color: rgb(222, 222, 222);
+    width: 1000px;
+    height: 140px;
+    background-image: url("black_twill.png");
+}
+#adinfo{
+    padding:30px 0 0 30px;
+    width: 650px;
+    height: 80px;
+    display: inline-block;
+}
+#button{
+    background-color: rgb(247, 125, 61);
+    display: inline-block;
+    width: 125px;
+    height: 45px;
+    vertical-align: top;
+    margin-top:40px;
+    margin-left: 120px;
+    color: white;
+    font-size: 20px;
+    border-radius: 8px;
+    border: 5px solid rgb(247, 125, 61);
+
+}
+
+#bottom{
+    width: 980px;
+    height: 380px;
+    background-color:rgb(26, 26, 26);
+}
+#portfoliohead{
+    width: 980px;
+    height: 70px;
+    background-color:rgb(26, 26, 26);
+}
+#portfolio1{
+    padding-left:15px;
+    width: 220px;
+    height: 280px;
+    display: inline-block;
+    background-color:rgb(26, 26, 26);
+    
+}
+#portfolio2{
+    padding-left:15px;
+    width: 220px;
+    height: 280px;
+    display: inline-block;
+    background-color:rgb(26, 26, 26);
+}
+#portfolio3{
+    padding-left:15px;
+    width: 220px;
+    height: 280px;
+    display: inline-block;
+    background-color:rgb(26, 26, 26);
+}
+#portfolio4{
+    padding-left:15px;
+    width: 220px;
+    height: 280px;
+    display: inline-block;
+    background-color:rgb(26, 26, 26);
+}
+.portfolioimg{
+    
+    border: 5px solid rgb(54, 54, 54);
+
+}
+#portfolioheader{
+    display: inline-block;
+    width: 810px;
+    padding-top: 30px;
+    color: rgb(222, 222, 222);
+    padding-left:20px;
+
+}
+#viewall{
+    display: inline-block;
+    color: rgb(227, 113, 54);
+    font-size: 12px;
+    font-style: italic;
+
+}
+h4{
+    margin-top:8px;
+    color: rgb(227, 113, 54);
+}
+p{
+    font-size: 16px;
+    
+    color: rgb(222, 222, 222);
+}
+.lastp{
+    font-size: 16px;
+    margin-top:10px;
+    
+    color: rgb(222, 222, 222);
+}
+
+#home{
+    margin-top:10px;
+    padding-top:2px;
+    vertical-align: top;
+    border-right: 4px groove rgb(129, 125, 125);
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: rgb(222, 222, 222);
+    font-size: 14px;
+    
+    
+
+}
+#blog{
+    margin-top:10px;
+    padding-top:2px;
+    vertical-align: top;
+    display: inline-block;
+    border-right: 4px groove rgb(129, 125, 125);
+    color: rgb(222, 222, 222);
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 14px;
+
+}
+#portfolio{
+    margin-top:10px;
+    padding-top:2px;
+    vertical-align: top;
+    display: inline-block;
+    border-right: 4px groove rgb(129, 125, 125);
+    color: rgb(222, 222, 222);
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 14px;
+
+}
+#shortcodes{
+    margin-top:10px;
+    padding-top:2px;
+    vertical-align: top;
+    display: inline-block;
+    border-right: 4px groove rgb(129, 125, 125);
+    color: rgb(222, 222, 222);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#features{
+    margin-top:10px;
+    padding-top:2px;
+    vertical-align: top;
+    display: inline-block;
+    border-right: 4px groove rgb(129, 125, 125);
+    color: rgb(222, 222, 222);
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 14px;
+}
+#contact{  
+    margin-top:10px;
+    padding-top:2px;
+    vertical-align: top;
+    display: inline-block;
+    border-right: 4px groove rgb(129, 125, 125);
+    color: rgb(222, 222, 222); 
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 14px;
+}
+#empty{
+    
+    padding-left: 240px;
+    border-right: 4px groove rgb(129, 125, 125);
+    height: 44px;
+    width:20px;
+    display: inline-block;
+    font-size: 14px;
+}
+#backtotop{
+    text-align: right;
+    vertical-align: bottom;
+    font-size: 12px;
+    color: rgb(124, 124, 124);
+    padding-top:15px;
+}
+.arrows{
+    font-size: 8px;
+}

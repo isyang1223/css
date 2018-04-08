@@ -1,0 +1,221 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+#parentwrapper{
+  height: 1000px;
+  width: 900px;
+  background-color: rgb(233, 230, 230);
+  margin: 0px auto;
+ }
+h1{
+  margin: 20px;
+  font-family: Comic;
+
+  display: inline-block;
+
+}
+h2{
+  text-align: right;
+  margin: 20px;
+  margin-left: 280px;
+  font-family: arial;
+  display: inline-block;
+}
+#childwrapper{
+
+  height: 810px;
+  /* width: 900px; */
+  background-color: rgb(56, 9, 9);
+  background: linear-gradient(to bottom right, #663300 0%, #cc99ff 100%);
+  padding: 20px;
+}
+#imageblock{
+  height: 240px;
+  width: 360px;
+  background-color: grey;
+  background: linear-gradient(to bottom right, #999966 0%, #666699 100%);
+
+  margin-right: 20px;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+#photoofme{
+  height: 230px;
+  width: 350px;
+  padding: 5px;
+  
+}
+#aboutblock{
+  height: 240px;
+  width: 475px;
+  background-color: white;
+  
+  display: inline-block;
+  vertical-align:top;
+  word-wrap: break-word;
+}
+#abouttitle{
+  height: 20px;
+  padding: 10px;
+  background-color: grey;
+  background: linear-gradient(to bottom right, #999966 0%, #666699 100%);
+
+  color: white;
+}
+#lamode{
+  /* height: 200px; */
+  width: 270px;
+  background-color: white;
+  display: inline-block;
+  vertical-align:top;
+  word-wrap: break-word;
+  margin-right: 20px;
+ }
+ #lamodetitle{
+  height: 20px;
+  background-color: grey;
+  background: linear-gradient(to bottom right, #999966 0%, #666699 100%);
+
+  padding: 10px;
+  color: white;
+}
+#lamodeimg{
+  
+  max-width:100%; 
+  max-height:100%;
+
+}
+#lamodetech{
+  height: 20px;
+  background-color: grey;
+  background: linear-gradient(to bottom right, #999966 0%, #666699 100%);
+
+  padding: 10px;
+  color: white;
+}
+.lamodetechimg{
+  display:inline-block
+  height: 30px;
+  width: 30px;
+  margin: 8px;
+}
+#lamodebutton{
+  background-color: green;
+  color: white;
+  text-align: center;
+  width: 100px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+
+  
+}
+#familycontacts{
+  /* height: 200px; */
+  width: 270px;
+  background-color: white;
+  display: inline-block;
+  vertical-align:top;
+  word-wrap: break-word;
+  margin-right: 20px;
+ }
+ #familycontactstitle{
+  height: 20px;
+  padding: 10px;
+  background-color: grey;
+  background: linear-gradient(to bottom right, #999966 0%, #666699 100%);
+
+  color: white;
+}
+#familycontactsimg{
+  max-width:100%; 
+  max-height:100%;
+}
+#familtcontactstech{
+  height: 20px;
+  background-color: grey;
+  background: linear-gradient(to bottom right, #999966 0%, #666699 100%);
+
+  padding: 10px;
+  color: white;
+}
+.familtcontactstechimg{
+  display:inline-block
+  height: 30px;
+  width: 30px;
+  margin: 8px;
+}
+#familycontactsbutton{
+  background-color: green;
+  color: white;
+  text-align: center;
+  width: 150px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+
+}
+#fiveeleven{
+  /* height: 200px; */
+  width: 270px;
+  background-color: white;
+  display: inline-block;
+  vertical-align: top;
+  word-wrap: break-word;
+ }
+ #fiveeleventitle{
+  height: 20px;
+  padding: 10px;
+  background-color: grey;
+  background: linear-gradient(to bottom right, #999966 0%, #666699 100%);
+
+  color: white;
+}
+#fiveelevenimg{
+  max-width:100%; 
+  max-height:100%;
+}
+#fiveeleventech{
+  height: 20px;
+  background-color: grey;
+  padding: 10px;
+  color: white;
+}
+.fiveeleventechimg{
+  display:inline-block
+  height: 30px;
+  width: 30px;
+  margin: 8px;
+}
+#fiveelevenbutton{
+  background-color: green;
+  color: white;
+  text-align: center;
+  width: 100px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
+#para1{
+    min-height: 185px;
+}
+#para2{
+  min-height: 185px;
+}
+#para3{
+  min-height: 185px;
+}
+#network{
+  margin-left: auto;
+    margin-right: auto;
+    width: 310px;
+}
+.networkpic{
+  height: 15px;
+  width: 15px;
+}
+#email{
+  text-align: center;
+
+}
